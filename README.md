@@ -37,7 +37,11 @@ python Etsy_Top_Tags.py
 ```
 
 This will open a GUI window that allows you to select the text file and enter the number of top phrases you want to generate.
+
 Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request. You can also submit bug reports or feature requests by opening an issue.
+
+If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+You can also submit bug reports or feature requests by opening an issue.
 
 
